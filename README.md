@@ -1,8 +1,7 @@
 # Este es el cuento del gallo pelón
-
-<<<<<<< HEAD
-=======
+## que vivía feliz en un gran corralón.
 # que tenía dos pollitos 🐤🐤.
 
 
->>>>>>> Jonnatha
+
+
